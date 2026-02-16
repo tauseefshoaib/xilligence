@@ -1,0 +1,80 @@
+{
+  "app": {
+    "title": "Scheme Details",
+    "startSip": "Start SIP",
+    "oneTime": "One Time"
+  },
+  "common": {
+    "na": "N/A",
+    "viewAll": "View All",
+    "viewAllHoldings": "View all holdings",
+    "expand": "Expand",
+    "collapse": "Collapse"
+  },
+  "header": {
+    "returns": "Returns",
+    "aum": "AUM",
+    "fundCategory": "Fund Category",
+    "minInvestment": "Min. Investment"
+  },
+  "sections": {
+    "returns": "Returns",
+    "returnAnalysis": "Return Analysis",
+    "analytics": "Analytics",
+    "allocationAnalysis": "Allocation Analysis",
+    "holdingsAnalysis": "Holdings Analysis",
+    "riskometer": "Riskometer",
+    "schemeInfo": "Scheme Info",
+    "fundManager": "Fund Manager",
+    "returnCalculator": "Return Calculator"
+  },
+  "returns": {
+    "pointToPoint": "Point to Point",
+    "sipReturns": "SIP Returns",
+    "navAsOn": "NAV",
+    "duration": "Duration",
+    "returns": "Returns"
+  },
+  "allocation": {
+    "assetClass": "Asset Class",
+    "sector": "Sector"
+  },
+  "holdings": {
+    "security": "Security",
+    "value": "Value (mn)",
+    "holding": "Holding %",
+    "viewLessHoldings": "View less Holdings"
+  },
+  "riskometer": {
+    "low": "Low",
+    "lowModerate": "Low to Moderate",
+    "moderate": "Moderate",
+    "moderatelyHigh": "Moderately High",
+    "high": "High",
+    "veryHigh": "Very High",
+    "youAreHere": "You are here",
+    "disclaimer": "Investors must understand that their investment will be at",
+    "riskSuffix": "Risk"
+  },
+  "schemeInfo": {
+    "objective": "Objective",
+    "expenseRatio": "Expense ratio",
+    "aum": "AUM",
+    "lockIn": "Lock-in period",
+    "benchmark": "Benchmark",
+    "isin": "ISIN",
+    "listingDate": "Listing Date",
+    "amc": "AMC",
+    "rta": "RTA",
+    "address": "Current Address"
+  },
+  "calculator": {
+    "monthlySip": "Monthly SIP",
+    "oneTime": "One Time",
+    "monthlyAmount": "Monthly SIP Amount",
+    "oneTimeAmount": "One Time Amount",
+    "duration": "Select Duration",
+    "totalInvestment": "Total Investment",
+    "wouldHaveBecome": "Would have become"
+  }
+}
