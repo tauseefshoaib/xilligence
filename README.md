@@ -1,5 +1,7 @@
 # Xilligence - Scheme Details (Machine Test)
 
+APK Link - https://drive.google.com/file/d/1xKrPjy3fVGQ_NZzU-coJ68YUDMpI97Dr/view?usp=sharing
+
 Expo + TypeScript implementation of the Scheme Details screen with:
 - Accordion-based sections (collapsed by default)
 - JSON-driven rendering
