@@ -31,12 +31,12 @@ npm run start
 
 ## Folder Structure
 
-- `/Users/tauseefshoaib/Documents/xe/xilligence/src/components` reusable UI blocks
-- `/Users/tauseefshoaib/Documents/xe/xilligence/src/screens` screen-level composition
-- `/Users/tauseefshoaib/Documents/xe/xilligence/src/data` local dummy JSON and data accessor
-- `/Users/tauseefshoaib/Documents/xe/xilligence/src/locales` i18n files and translation helper
-- `/Users/tauseefshoaib/Documents/xe/xilligence/src/utils` formatting/calculation helpers
-- `/Users/tauseefshoaib/Documents/xe/xilligence/src/constants` shared theme values
+- `/xilligence/src/components` reusable UI blocks
+- `/xilligence/src/screens` screen-level composition
+- `/xilligence/src/data` local dummy JSON and data accessor
+- `/xilligence/src/locales` i18n files and translation helper
+- `/xilligence/src/utils` formatting/calculation helpers
+- `/xilligence/src/constants` shared theme values
 
 ## Architecture Notes
 
